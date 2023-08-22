@@ -1,4 +1,5 @@
-.nav-link{
+<style>
+      .nav-link{
       color: white;
     }
 
@@ -562,6 +563,4 @@
   filter: drop-shadow(0 0 23px var(--animation-color))
 }
 /*FIM ANIMAÇÃO BAIXAR GPBUS*/
-
-
-
+</style>
