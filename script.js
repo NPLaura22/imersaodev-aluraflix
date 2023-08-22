@@ -1,4 +1,5 @@
-const elementsWithSpeech = document.querySelectorAll(".speech");
+<script>
+         const elementsWithSpeech = document.querySelectorAll(".speech");
 
           function speakText(text) {
             const speechSynthesis = window.speechSynthesis;
@@ -69,3 +70,5 @@ const elementsWithSpeech = document.querySelectorAll(".speech");
                 trocaImg.alt = "Imagem 1";
               }
             });
+ 
+</script>
