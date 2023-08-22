@@ -1,1 +1,3 @@
-# imersaodev-aluraflix
+*  imersaodev-aluraflix
+
+*  TCC - Cotil - GPbuS
